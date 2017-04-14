@@ -11,7 +11,7 @@ A sample script was developed, `fit_data.py`, to illusrate running python code u
 * Rodeo IDE
 * Jupyter Notebook
 
-Additionally, a datafile named `python_feedback.txt` was filled with voting results on the question "Do you or would you see yourself using this environment?".  The data was compiled at the end, the associated Jupyter notebook cell run, and hence slide updated.
+Additionally, a datafile named `python_feedback.txt` was filled with voting results on the question: *Do you or would you see yourself using this environment?*  The data was compiled at the end, the associated Jupyter notebook cell run, and hence slide updated.
 
 ## Building Slides
 
@@ -19,7 +19,7 @@ Additionally, a datafile named `python_feedback.txt` was filled with voting resu
     - Download the [reveal.js](https://github.com/hakimel/reveal.js.git)
 2. Run this command:
     
-    >> jupyter-nbconvert --to slides --reveal-prefix=<path to reveal.js> SlidesPythonSciEng.ipynb
+> jupyter-nbconvert --to slides --reveal-prefix=<path to reveal.js> SlidesPythonSciEng.ipynb
     
 where `<path to reveal.js>` should be replaced with the appropriate path.
 
