@@ -16,12 +16,12 @@ Additionally, a datafile named `python_feedback.txt` was filled with voting resu
 ## Building Slides
 
 1. Download this repository
-    - Download the [reveal.js](https://github.com/hakimel/reveal.js.git)
-2. Run this command:
+2. Download the [reveal.js](https://github.com/hakimel/reveal.js.git)
+3. Run this command:
     
-> jupyter-nbconvert --to slides --reveal-prefix=<path to reveal.js> SlidesPythonSciEng.ipynb
+> jupyter-nbconvert --to slides --reveal-prefix=PATHTOREVEALJS SlidesPythonSciEng.ipynb
     
-where `<path to reveal.js>` should be replaced with the appropriate path.
+where `PATHTOREVEALJS` should be replaced with the appropriate path.
 
 
 ## Change Log
