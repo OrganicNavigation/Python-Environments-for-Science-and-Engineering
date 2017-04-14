@@ -1,0 +1,6 @@
+         , Terminal/Editor, Software IDE, Algorithm IDE, Notebook
+ Engineer,               1,            6,             4,        4  
+Scientist,               3,            5,             4,        7  
+Developer,               6,            45,            3,        5  
+  Analyst,               4,            7,             8,        11  
+
